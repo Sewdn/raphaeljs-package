@@ -1,9 +1,9 @@
 {
-	"name": "raphaeljs-package",
+	"name": "raphaeljs",
 	"description": "Meteor packaging of Raphael js vector graphics library.",
-	"homepage": "https://github.com/doubledare/raphaeljs-package",
-	"author": "Joc O'Connor (https://github.com/doubledare)",
-	"version": "0.1.0",
-	"git": "https://github.com/doubledare/raphaeljs-package.git",
+	"homepage": "https://github.com/Dsyko/raphaeljs-package",
+	"author": "Dsyko",
+	"version": "2.1.1",
+	"git": "https://github.com/Dsyko/raphaeljs-package.git",
 	"packages": {}
 }
